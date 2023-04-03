@@ -3,19 +3,24 @@
 ```js
 export default () => ({
     AboutMe: [
-        "Senior FrontEnd Engineer", "Adtech", "designer",
-        "creative", "A.I. Enthusiast"
+        "Senior FrontEnd Engineer", 
+        "Creative Technologist",
+        "Adtech", 
+        "Designer", 
+        "Creative Thinker", 
+        "Error Musician", 
+        "Continuous Learner"
     ],
     technologies: {
         frontEnd: {
             js: ["react", "typescript", "vue"],
-            css: ["LESS", "SCSS", "bootstrap"]
+            css: ["LESS", "SCSS", "bootstrap", "tailwindcss", "Bulma"]
         },
         backEnd: {
             js: ["node"],
-            misc: ["bash", "systemd"]
+            misc: ["bash", "systemd", "ruby"]
         },
-        machineLearning: ["tensorflow", "midjourney"]
+        machineLearning: ["tensorflow", "midjourney", "neuralNetworks", "deepLearning", "naturalLanguageProcessing"]
 
     },
     experience: {
@@ -44,7 +49,6 @@ export default () => ({
             "Experience with debugging browser inconsistencies, both visual and functional",
             "Experience with responsive mobile-first web development",
             "Experience with cross browser/platform/device development",
-            "Adobe Flash Veteran (Actionscript 2 & 3.0) but it's practically a dead platform for the Web today"
         ]
     }
 });
@@ -52,3 +56,7 @@ export default () => ({
 
 ---
 
+### MOST RECENT DEV.TO ARTICLES
+
+-  💬  [The Pros and Cons of Live Coding Interviews: A FrontEnd Dev Analysis](https://dev.to/c0mmand3rj/the-pros-and-cons-of-live-coding-interviews-a-frontend-dev-analysis-31fl)
+- 💬  [Full Stack Developers vs. Front End/Back End Developers: Demystifying the Differences](https://dev.to/c0mmand3rj/full-stack-developers-vs-front-end-developers-demystifying-the-differences-5hi7)
