@@ -58,9 +58,11 @@ export default () => ({
 
 ### MOST RECENT DEV.TO ARTICLES
 
+- 💬  [Evolution of Front-End Development: Past and Future Trends](https://dev.to/c0mmand3rj/evolution-of-front-end-development-past-and-future-trends-4n8i)
+- 💬  [The Renaissance of Flash Developers: From Adobe’s Sunset to a New Dawn](https://dev.to/c0mmand3rj/the-renaissance-of-flash-developers-from-adobes-sunset-to-a-new-dawn-4p10)
+- 💬  [CMS Mastery: Key for Web Developers](https://dev.to/c0mmand3rj/cms-mastery-key-for-web-developers-3dfm)
 - 💬  [The Pros and Cons of CSS Frameworks: A Comprehensive Review](https://dev.to/c0mmand3rj/the-pros-and-cons-of-css-frameworks-a-comprehensive-review-13db)
 - 💬  [Full Stack Developers vs. Front End/Back End Developers: Demystifying the Differences](https://dev.to/c0mmand3rj/full-stack-developers-vs-front-end-developers-demystifying-the-differences-5hi7)
--  💬  [The Pros and Cons of Live Coding Interviews: A FrontEnd Dev Analysis](https://dev.to/c0mmand3rj/the-pros-and-cons-of-live-coding-interviews-a-frontend-dev-analysis-31fl)
 
 
 
